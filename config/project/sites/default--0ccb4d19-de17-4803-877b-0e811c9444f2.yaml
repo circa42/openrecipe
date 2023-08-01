@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Open Recipe'
+primary: true
+siteGroup: e4972c11-6f05-4875-a464-3c1b6f854f0d # Open Recipe
+sortOrder: 1

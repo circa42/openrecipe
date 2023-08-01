@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: recipes
+name: Recipes
+propagationMethod: all
+siteSettings:
+  0ccb4d19-de17-4803-877b-0e811c9444f2: # Open Recipe
+    enabledByDefault: true
+    hasUrls: true
+    template: recipes/_entry
+    uriFormat: 'recipes/{slug}'
+type: channel

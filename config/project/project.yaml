@@ -1,0 +1,25 @@
+dateModified: 1689899888
+email:
+  fromEmail: andrew@circa42.com
+  fromName: 'Open Recipe'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0ccb4d19-de17-4803-877b-0e811c9444f2: 'Open Recipe' # Open Recipe
+    769ff2ce-1e39-4aa9-b65f-7c67f3738cb9: Default # Default
+    6947cd3e-0798-4217-b166-f3459dc13c02: Recipes # Recipes
+    ce5df429-d3be-47c2-9ccf-1a67202b89f3: Recipes # Recipes
+    e4972c11-6f05-4875-a464-3c1b6f854f0d: 'Open Recipe' # Open Recipe
+    f44a6af3-ce32-433b-b1de-fbfb1f6d0e8c: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Open Recipe'
+  schemaVersion: 3.8.0.1
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
